@@ -8,7 +8,6 @@ Computer Science student at **Western University** (Honours Specialization), foc
 - 🏎️ Outside of code: motorsports (and how they work behind the scenes), basketball and football ⚽
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hossane--tang-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossane-tang/)
-[![Instagram](https://img.shields.io/badge/Instagram-__hos.tang__-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_hos.tang_/)
  
 ---
  
