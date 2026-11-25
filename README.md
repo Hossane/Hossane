@@ -1,4 +1,4 @@
-# Hi, I'm Hossane 👋
+# Hi, I'm Hossane Tang 👋
  
 Computer Science student at **Western University** (Honours Specialization), focused on **networking and security**. I like building tools that sit close to the wire: packet capture, flow analysis, integrity monitoring and encryption.
  
