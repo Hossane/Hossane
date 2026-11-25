@@ -3,10 +3,12 @@
 Computer Science student at **Western University** (Honours Specialization), focused on **networking and security**. I like building tools that sit close to the wire: packet capture, flow analysis, integrity monitoring and encryption.
  
 - 🛡️ Network Domain Developer at **Western Cyber Society**, working on [Sentinel](https://github.com/kmodabber/Sentinel), an ML-based network intrusion detection system
-- 🔧 Currently working on my home lab
+- 🔧 Currently working on my [home lab](https://github.com/Hossane/Home-Lab-Documentation)
 - 📚 Working toward **CompTIA Security+**
 - 🏎️ Outside of code: motorsports (and how they work behind the scenes), basketball and football ⚽
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hossane--tang-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossane-tang/)
+[![Instagram](https://img.shields.io/badge/Instagram-__hos.tang__-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_hos.tang_/)
  
 ---
  
